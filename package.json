@@ -13,7 +13,7 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.577.0",
     "@fastify/cors": "^9.0.1",
-    "@sinclair/typebox": "^0.32.30",
+    "@sinclair/typebox": "^0.32.34",
     "fastify": "^4.27.0",
     "fflate": "^0.8.2",
     "fs-extra": "^11.2.0",
