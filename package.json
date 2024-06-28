@@ -11,7 +11,7 @@
     "www": "astro dev"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.577.0",
+    "@aws-sdk/client-s3": "^3.606.0",
     "@fastify/cors": "^9.0.1",
     "@sinclair/typebox": "^0.32.30",
     "fastify": "^4.27.0",
